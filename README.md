@@ -1,6 +1,13 @@
 # SecureBank - Banking Dashboard
 
 ![SecureBank Dashboard](https://images.unsplash.com/photo-1563986768609-322da13575f3?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&h=400&q=80)
+![screencapture-nimble-marigold-412f4b-netlify-app-accounts-2025-03-27-17_26_26](https://github.com/user-attachments/assets/2379f3ce-a78f-4a09-8178-d7cd6c0ce753)
+![screencapture-nimble-marigold-412f4b-netlify-app-transactions-2025-03-27-17_26_39](https://github.com/user-attachments/assets/c3848b72-cdf6-48ce-a80d-635155156e10)
+![screencapture-nimble-marigold-412f4b-netlify-app-analytics-2025-03-27-17_26_51](https://github.com/user-attachments/assets/0f011cf7-7307-4a29-ae36-8d65ae12da97)
+![screencapture-nimble-marigold-412f4b-netlify-app-goals-2025-03-27-17_27_05](https://github.com/user-attachments/assets/1cfc783b-cbf7-469f-9fae-5346199a6b3a)
+![screencapture-chrome-extension-fdpohaocaechififmbbbbbknoalclacl-capture-html-2025-03-27-17_27_18](https://github.com/user-attachments/assets/01fe160f-55b5-46ea-9f4f-4efd81cf16f3)
+![screencapture-nimble-marigold-412f4b-netlify-app-settings-2025-03-27-17_27_35](https://github.com/user-attachments/assets/ca2b7bd6-4f3f-4b3b-802a-928ab57f66b5)
+![screencapture-nimble-marigold-412f4b-netlify-app-2025-03-27-17_26_16](https://github.com/user-attachments/assets/86c5844d-a30a-4551-9140-498e9dd22a0d)
 
 A modern, responsive banking dashboard built with React, TypeScript, and Tailwind CSS. This application provides users with a comprehensive overview of their financial data, including account balances, transaction history, spending analytics, and financial goals.
 
